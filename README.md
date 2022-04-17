@@ -1,5 +1,5 @@
 <h1 align="center">
-  useTransitionValue
+  react-transition-value
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-  <a href="/cool">See Demos</a>
+  <a href="https://dev-bjoern.github.io/react-transition-value">See Demos</a>
 </div>
 
 ### ⚡️ Getting started 
