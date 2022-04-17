@@ -28,7 +28,7 @@ const Basic = ({ style }) => {
         <div className={styles.barText} onClick={onClick}>Click me {Math.round(transitionValue)}</div>
       </div>
     </div>
-    <a style={{ display: "block", marginTop: 20 }} href="#">view source</a>
+    <a style={{ display: "block", marginTop: 20 }} href="https://github.com/dev-bjoern/react-transition-value/blob/master/src/examples/Basic/Basic.jsx">view source</a>
   </div >
 }
 

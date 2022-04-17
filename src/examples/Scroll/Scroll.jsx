@@ -40,7 +40,7 @@ const Basic = ({ style }) => {
       <button onClick={scrollToBottom}>Scroll to bottom</button>
       {" "}
       <button onClick={scrollToTop}>Scroll to top</button>
-      <a style={{ display: "block", marginTop: 20 }} href="#">view source</a>
+      <a style={{ display: "block", marginTop: 20 }} href="https://github.com/dev-bjoern/react-transition-value/blob/master/src/examples/Scroll/Scroll.jsx">view source</a>
     </div>
   </div>
 

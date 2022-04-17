@@ -46,7 +46,7 @@ const AutoStart = ({ style }) => {
       <button onClick={pause}>pause</button>
       {" "}
       <button onClick={resume}>resume</button>
-      <a style={{ display: "block", marginTop: 20 }} href="#">view source</a>
+      <a style={{ display: "block", marginTop: 20 }} href="https://github.com/dev-bjoern/react-transition-value/blob/master/src/examples/AutoStart/AutoStart.jsx">view source</a>
     </div>
   </div>
 }
