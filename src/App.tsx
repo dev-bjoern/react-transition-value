@@ -16,13 +16,13 @@ const App = () => {
 
     <div style={{ display: "flex", flexDirection: "row", flexWrap: "wrap", justifyContent: "space-evenly", marginTop: 30, paddingBottom: 30, maxWidth: 1600, marginLeft: "auto", marginRight: "auto" }}>
 
-      {window.location.pathname === "/" &&
-        <>
-          <Basic style={{ margin: 30 }} />
-          <AutoStart style={{ margin: 30 }} />
-          <Scroll style={{ margin: 30 }} />
-        </>
-      }
+      {/* {window.location.pathname === "/" && */}
+      <>
+        <Basic style={{ margin: 30 }} />
+        <AutoStart style={{ margin: 30 }} />
+        <Scroll style={{ margin: 30 }} />
+      </>
+      {/* } */}
 
       {window.location.pathname === "/basic" &&
         <Basic style={{ marginTop: 30 }} />
