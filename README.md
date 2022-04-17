@@ -13,7 +13,7 @@
 ### ⚡️ Getting started 
 
 ```shell
-npm install react-transitionValue
+npm install react-transition-value
 ```
 
 

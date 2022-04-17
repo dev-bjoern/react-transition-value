@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/dev-bjoern/react-transition-value"
   },
-  "_homepage": "https://github.com/dev-bjoern/react-transition-value/app",
+  "homepage": "https://github.com/dev-bjoern/react-transition-value",
   "bugs": {
     "url": "https://github.com/dev-bjoern/react-transition-value/issues"
   },
