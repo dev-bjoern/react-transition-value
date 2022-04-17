@@ -1,0 +1,29 @@
+.container {
+  background: #292B33;
+  color: #fff;
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+  overflow: auto;
+}
+
+.scroller {
+  display: flex;
+  flex-direction: column;
+  height: 300%;
+}
+
+.top {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.middle {
+  margin: auto;
+}
+
+.bottom {
+  margin: auto;
+  margin-bottom: 20px;
+}

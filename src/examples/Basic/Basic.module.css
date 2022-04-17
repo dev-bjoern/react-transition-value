@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #292B33;
+  color: #fff;
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+}
+
+.progress {
+  height: 40px;
+  width: 80%;
+  position: relative;
+  background: #3D4043;
+  cursor: pointer;
+  border-radius: 4px;
+  overflow: hidden
+}
+
+.bar {
+  position: absolute;
+  height: 100%;
+  background: #9C4E39;
+  left: 0;
+}
+
+.barText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  user-select: none;
+}

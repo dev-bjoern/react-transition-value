@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  background: #292B33;
+  color: #fff;
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+}
+
+.mover {
+  position: absolute;
+  background: #9C4E39;
+  left: 40%;
+  padding: 10px;
+  border-radius: 4px;
+}
