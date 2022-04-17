@@ -1,6 +1,6 @@
 {
   "name": "react-transition-value",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "author": "dev-bjoern",
   "description": "Transition number values using easing functions",
