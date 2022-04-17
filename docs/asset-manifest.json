@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dev-bjoern/react-transition-value/static/css/main.dcaae9f7.css",
-    "main.js": "/dev-bjoern/react-transition-value/static/js/main.a03fddad.js",
-    "static/js/787.4b7cde08.chunk.js": "/dev-bjoern/react-transition-value/static/js/787.4b7cde08.chunk.js",
-    "index.html": "/dev-bjoern/react-transition-value/index.html",
-    "static/media/github.svg": "/dev-bjoern/react-transition-value/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
-    "main.dcaae9f7.css.map": "/dev-bjoern/react-transition-value/static/css/main.dcaae9f7.css.map",
-    "main.a03fddad.js.map": "/dev-bjoern/react-transition-value/static/js/main.a03fddad.js.map",
-    "787.4b7cde08.chunk.js.map": "/dev-bjoern/react-transition-value/static/js/787.4b7cde08.chunk.js.map"
+    "main.css": "/react-transition-value/static/css/main.dcaae9f7.css",
+    "main.js": "/react-transition-value/static/js/main.42da200d.js",
+    "static/js/787.4b7cde08.chunk.js": "/react-transition-value/static/js/787.4b7cde08.chunk.js",
+    "static/media/github.svg": "/react-transition-value/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/react-transition-value/index.html",
+    "main.dcaae9f7.css.map": "/react-transition-value/static/css/main.dcaae9f7.css.map",
+    "main.42da200d.js.map": "/react-transition-value/static/js/main.42da200d.js.map",
+    "787.4b7cde08.chunk.js.map": "/react-transition-value/static/js/787.4b7cde08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcaae9f7.css",
-    "static/js/main.a03fddad.js"
+    "static/js/main.42da200d.js"
   ]
 }
