@@ -2,18 +2,12 @@ import { useRef } from "react";
 import useTransitionValue from "../../lib/useTransitionValue";
 import styles from "./Scroll.module.css"
 
-function easeOutExpo(x) {
-  return x === 1 ? 1 : 1 - Math.pow(2, -10 * x);
-}
-
-
 const Basic = ({ style }) => {
 
   const container = useRef()
 
   const [scrollValue, setScrollValue] = useTransitionValue(0, {
     duration: 1000,
-    easing: easeOutExpo,
     onStep({ value }) {
       container.current.scrollTop = value
     }
