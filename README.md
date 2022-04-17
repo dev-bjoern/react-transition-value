@@ -10,10 +10,10 @@
   <a href="https://dev-bjoern.github.io/react-transition-value">See Demos</a>
 </div>
 
-### ⚡️ Getting started 
+### ⚡️ Getting started (npm install coming soon)
 
 ```shell
-npm install react-transition-value
+npm install react-transition-value # react-transition-value is not yet published on npm - coming soon
 ```
 
 
