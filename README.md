@@ -26,7 +26,7 @@ npm install react-transition-value
     // transitionValue will automatically update and transition through all values from 0 to 1000
     const [transitionValue, setTransitionValue] = useTransitionValue(0)
 
-    return <div onClick={() => setTransitionValue(1000)}
+    return <div onClick={() => setTransitionValue(1000)}>
       {transitionValue}
     </div>
   }
