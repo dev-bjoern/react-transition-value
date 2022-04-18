@@ -27,7 +27,7 @@ npm install react-transition-value
   
   const AnimateValue = () => {
 
-    // transitionValue will automatically update and transition through all values from 0 to 1000
+    // transitionValue will automatically transition through all values from 0 to 1000
     const [transitionValue, setTransitionValue] = useTransitionValue(0)
 
     return <button onClick={() => setTransitionValue(1000)}>
