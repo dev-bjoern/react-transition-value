@@ -126,7 +126,7 @@ test('should update target value in running transition', async () => {
 
   await waitFor(() => expect(result.current[0]).toBe(newTo), { timeout: newDuration + 100 })
 
-  // both initial onDone and new onDone shoud now be called
+  // both initial onDone and new onDone should now be called
   await waitFor(() => expect(newOnDone).toHaveBeenCalledTimes(1), { timeout: newDuration + 100 })
   await waitFor(() => expect(onDone).toHaveBeenCalledTimes(1), { timeout: newDuration + 100 })
 })
