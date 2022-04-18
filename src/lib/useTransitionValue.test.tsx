@@ -60,7 +60,7 @@ test('should not autostart', async () => {
     onDone
   }))
 
-  // target value shoudl stay 0
+  // target value should stay 0
   await waitFor(() => expect(result.current[0]).toBe(0), { timeout: duration + 100 })
 
   // onDone should not be called
