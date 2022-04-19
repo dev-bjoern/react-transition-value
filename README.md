@@ -1,10 +1,15 @@
 <h1 align="center">
-  react-transition-value
+  react-transition-value 
 </h1>
 
 <h3 align="center">
   Transition / Animate number values using easing functions
 </h3>
+
+<p align="center">
+  <a target="_blank" href="https://npmjs.org/package/react-transition-value" title="NPM version"><img src="https://img.shields.io/npm/v/react-transition-value.svg"></a>
+    <a target="_blank" href="https://npmjs.org/package/react-transition-value" title="NPM downloads"><img src="https://img.shields.io/npm/dt/react-transition-value.svg"></a>
+</p>
 
 <div align="center">  
   <a href="https://dev-bjoern.github.io/react-transition-value">
@@ -16,9 +21,10 @@
 
 ### ⚡️ Getting started
 
-```shell
-npm install react-transition-value
-```
+<pre>
+npm i <a href="https://www.npmjs.com/package/react-transition-value">react-transition-value</a>
+</pre>
+
 
 
 ``` javascript
