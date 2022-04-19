@@ -7,8 +7,15 @@
 </h3>
 
 <p align="center">
-  <a target="_blank" href="https://npmjs.org/package/react-transition-value" title="NPM version"><img src="https://img.shields.io/npm/v/react-transition-value.svg"></a>
-    <a target="_blank" href="https://npmjs.org/package/react-transition-value" title="NPM downloads"><img src="https://img.shields.io/npm/dt/react-transition-value.svg"></a>
+  <a target="_blank" href="https://npmjs.org/package/react-transition-value" title="NPM version">
+    <img src="https://img.shields.io/npm/v/react-transition-value.svg">
+  </a>
+  <a target="_blank" href="https://npmjs.org/package/react-transition-value" title="NPM downloads">
+    <img src="https://img.shields.io/npm/dt/react-transition-value.svg">
+  </a>
+  <a target="_blank" href="https://npmjs.org/package/react-transition-value">
+    <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/react-transition-value">
+  </a>
 </p>
 
 <div align="center">  
