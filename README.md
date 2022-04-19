@@ -49,8 +49,6 @@ npm i <a href="https://www.npmjs.com/package/react-transition-value">react-trans
   }
 ```
 
-[![Edit white-wind-it1t40](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/white-wind-it1t40?autoresize=1&fontsize=14&hidenavigation=1&module=%2Fsrc%2FApp.js&theme=dark)
-
 ### Api
 ``` javascript
 const [transitionValue, setTransitionValue] = useTransitionValue(from, options)
