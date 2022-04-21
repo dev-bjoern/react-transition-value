@@ -28,10 +28,7 @@
 
 ### ⚡️ Getting started
 
-<pre>
-npm i <a href="https://www.npmjs.com/package/react-transition-value">react-transition-value</a>
-</pre>
-
+<pre>npm i <a href="https://www.npmjs.com/package/react-transition-value">react-transition-value</a></pre>
 
 
 ``` javascript
