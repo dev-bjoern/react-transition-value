@@ -22,7 +22,7 @@
   <a href="https://dev-bjoern.github.io/react-transition-value">
     <img src="public/basic_demo.gif" height="240px">
     <br>
-    See Demos
+    Try Demos →
   </a>
 </div>
 
