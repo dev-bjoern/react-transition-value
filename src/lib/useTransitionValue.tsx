@@ -89,7 +89,6 @@ const useTransitionValue = (
       onStep(onStepArgs)
 
       if (isFinished) {
-        // console.log("done")
         const ondoneArgs = { from, to, value: newEasedValue }
         settings.onDone(ondoneArgs)
         onDone(ondoneArgs)
@@ -104,9 +103,6 @@ const useTransitionValue = (
     if (from === to) return
 
     startTime.current = Date.now()
-
-    console.log("from", from)
-    console.log("to", to)
 
     loop()
 
