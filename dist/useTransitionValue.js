@@ -104,7 +104,6 @@ var useTransitionValue = function useTransitionValue() {
       onStep(onStepArgs);
 
       if (isFinished) {
-        // console.log("done")
         var ondoneArgs = {
           from: from,
           to: to,
@@ -121,8 +120,6 @@ var useTransitionValue = function useTransitionValue() {
 
     if (from === to) return;
     startTime.current = Date.now();
-    console.log("from", from);
-    console.log("to", to);
     loop();
   }, [settings.duration, settings.easing, settings.onDone, settings.onStep, settings.to]); // const pauseTime = useRef<number>()
 
